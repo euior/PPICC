@@ -1,2 +1,2 @@
 # PPICC
-this is particle in cell code which i have written several years ago, i want this code to be public and help those who want to learn it
+this is a particle in cell code which was written several years ago, i want to share this code with others and help those who want to learn it
